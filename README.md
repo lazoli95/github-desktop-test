@@ -1,2 +1,2 @@
 # github-desktop-test
- github desktop tesztelése
+ github desktop tesztelése és frissítése az alkalmazáson belül
